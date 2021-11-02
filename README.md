@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/25490134/139878937-d2b12eb4-99f9-4d19-b2bf-45f8c29a787e.png)
+
+Mini projet reseau social clone de facebook (Frontend). React JS + Material UI
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
